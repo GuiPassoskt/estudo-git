@@ -6,3 +6,4 @@ alteração 3
 alteração 4
 alteração 5.1
 alteração 6
+alteração 7
